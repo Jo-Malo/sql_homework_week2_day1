@@ -96,4 +96,4 @@ id |                title                | year | show_time
 
 10. The cinema would also like to make the Guardian movies a back to back feature. Update the 'Guardians of the Galaxy' show time from 18:55 to 21:30
 
--- UPDATE movies SET show_time = '21:30' WHERE show_time = '18:55';
+-- UPDATE movies SET show_time = '21:30' WHERE name = 'Guardians of the Galaxy';
