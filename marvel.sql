@@ -64,7 +64,7 @@ id |                title                | year | show_time
 
 4. Return ONLY your name from the 'people' table.
 
--- SELECT name FROM people WHERE name = 'Jo Malo';
+-- SELECT * FROM people WHERE name = 'Jo Malo';
 
  
 
