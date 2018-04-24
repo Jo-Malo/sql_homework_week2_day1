@@ -147,6 +147,27 @@ id  |                title                | year | show_time
 
 -- INSERT INTO movies (title, year, show_time) VALUES ('Guardians of the Galaxy 2', 2017, '00:00');
 
+ id  |                title                | year | show_time
+-----+-------------------------------------+------+-----------
+
+   1 | Iron Man                            | 2008 | 19:55
+   2 | The Incredible Hulk                 | 2008 | 18:40
+   3 | Iron Man 2                          | 2010 | 21:55
+   4 | Thor                                | 2011 | 16:35
+   5 | Captain America: The First Avenger  | 2011 | 13:25
+   6 | Avengers Assemble                   | 2012 | 22:05
+   7 | Iron Man 3                          | 2013 | 23:10
+   8 | Thor: The Dark World                | 2013 | 12:25
+  10 | Captain America: The Winter Soldier | 2014 | 14:45
+  12 | Avengers: Age of Ultron             | 2015 | 20:40
+  13 | Ant-Man                             | 2015 | 13:50
+  14 | Captain America: Civil War          | 2016 | 21:30
+  15 | Doctor Strange                      | 2016 | 17:55
+  14 | Captain America: Civil War          | 2016 | 21:30
+  15 | Doctor Strange                      | 2016 | 17:55
+  16 | Guardians of the Galaxy 2           | 2017 | 00:00
+  11 | Guardians of the Galaxy             | 2014 | 21:30
+
 
 10. The cinema would also like to make the Guardian movies a back to back feature. Update the 'Guardians of the Galaxy' show time from 18:55 to 21:30
 
